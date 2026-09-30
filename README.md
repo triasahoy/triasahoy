@@ -1,6 +1,6 @@
 # Trias Purwantoro
 
-Praktisi ekspor-impor dan Ahli Kepabeanan bersertifikat di Jawa Tengah. Membangun alat kecil yang memangkas pekerjaan menyalin data kepabeanan.
+Praktisi ekspor-impor dan Ahli Kepabeanan bersertifikat. Membangun alat kecil yang memangkas pekerjaan menyalin data kepabeanan.
 
 ## Proyek
 
