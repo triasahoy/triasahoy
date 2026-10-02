@@ -8,7 +8,7 @@ Praktisi ekspor-impor dan Ahli Kepabeanan bersertifikat. Membangun alat kecil ya
 
 - Hanya membaca dengan sesi login pengguna sendiri; data tetap di browser dan tidak ada server.
 - Izin hanya untuk `portal.beacukai.go.id`.
-- Pemasangan hanya lewat Chrome Web Store (sedang dalam tinjauan; tautan ditambahkan di repositori setelah tayang).
+- Pemasangan hanya lewat [Chrome Web Store](https://chromewebstore.google.com/detail/iojgnclbfhgoapolmfgcjkphacdfjbgi), untuk Chrome dan Edge.
 - Panduan bergambar, tanya jawab, catatan perubahan, rencana pengembangan, dan video: [repositori](https://github.com/triasahoy/ceisa-monitor) dan [halaman proyek](https://triasahoy.github.io/ceisa-monitor/).
 
 Proyek independen, tidak berafiliasi dengan Direktorat Jenderal Bea dan Cukai.
